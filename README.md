@@ -4,8 +4,10 @@
 * Optimised the custom defined loss function using gradient tape.
 
 * ContentImage1   StyleImage1  HybridImage1
-<img src="CONTENT-_1_.jpg" width="200px" height="200px"/> <img src="STYLE-_1_.jpg" width="200px" height="200px"/> <img src="image_02_3750.jpg" width="200px" height="200px"/>
+
+<img src="CONTENT-_1_.jpg" width="200px" height="200px"/>  <img src="STYLE-_1_.jpg" width="200px" height="200px"/>  <img src="image_02_3750.jpg" width="200px" height="200px"/>
 
 * ContentImage2   StyleImage2  HybridImage2
-<img src="content.jpg" width="200px" height="200px"/> <img src="style.jpg" width="200px" height="200px"/> <img src="Generated_imgae.jpg" width="200px" height="200px"/>
+
+<img src="content.jpg" width="200px" height="200px"/>  <img src="style.jpg" width="200px" height="200px"/>  <img src="Generated_imgae.jpg" width="200px" height="200px"/>
 
